@@ -52,34 +52,5 @@
         "reactorError": {
             "error": 3023.7
         }
-    },
-    "2": {
-        "name": "Base-Reactor-01",
-        "world": "DirtCraft",
-        "pidOptions": {
-            "Kp": 0.3,
-            "Ki": 0.6,
-            "Kd": 0.75,
-            "time": 0.5
-        },
-        "reactorStatus": {
-            "isActive": false,
-            "energyStored": 7313854,
-            "energySaturation": 0.7313854,
-            "fuelLevel": 159770,
-            "wasteLevel": 230,
-            "fuelMax": 160000,
-            "wasteProduced": 0,
-            "rfProduced": 1141.265625,
-            "reactivity": 498.96078491211,
-            "temp": 32.850135803223
-        },
-        "reactorError": {
-            "error": 3916.4
-        },
-        "pidStatus": {
-            "integralError": 50,
-            "lastEnergyPoll": 381.57681274414
-        }
     }
 }
